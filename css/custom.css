@@ -1,0 +1,6 @@
+@charset "UTF-8";
+@font-face {font-family: Merriweather-Regular;src: url(../fonts/Merriweather-Regular.ttf);font-weight:400;}
+body{margin:0px;padding:0px;background-image: url(p2.png);font-family: "Merriweather-Regular";}
+.hero-unit{margin-bottom: 0px;background-color: #93BF9E;color: #ffffff;border-radius: 0px;}
+.tip{background-color: #F2F0D5;color: #1f1f1f;padding: 10px;height: 100%;}
+.footer{background-color: #93BF9E;padding: 10px;margin: 0px;padding-bottom: 0px;}
