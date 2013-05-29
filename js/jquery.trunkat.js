@@ -1,5 +1,5 @@
 (function($){
- $.fn.truncate = function(options) {
+ $.fn.trunkat = function(options) {
     
   var defaults = {
    length: 300,
